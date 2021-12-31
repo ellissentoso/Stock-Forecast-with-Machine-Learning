@@ -27,7 +27,7 @@ I created a program that uses an artificial recurrent neural network (RNN) calle
 Here's why:
 The stock market can be unpredictable but machine learning is one of the best ways to help do quantitative analysis.
 
-A list of commonly used resources that I find helpful is listed in the acknowledgments.
+A list resources that I find helpful is listed in the acknowledgments.
 
 ## Built With
 
