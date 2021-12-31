@@ -49,7 +49,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Authors
 
-* **Ellis Sentoso** - *Data Science Student* - [Ellis Sentoso](https://github.com/ellissentoso) - *Built ReadME Template*
+* **Ellis Sentoso** - *Data Science Student* - [Ellis Sentoso](https://github.com/ellissentoso) - *Program for Stock Price Prediction using RNN*
 
 ## Acknowledgements
 
