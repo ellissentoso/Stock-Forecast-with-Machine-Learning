@@ -18,7 +18,7 @@ A list resources that I find helpful is listed in the acknowledgments.
 ## Built With
 
 Jupyter Notebook and Python Programming.
-Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
+Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib, keras, tensorflow.
 
 ## Usage
 
