@@ -6,20 +6,6 @@
 
   <h3 align="center">Stock Prediction with Recurrent Neural Network LSTM</h3>
 
-  <p align="center">
-    <a href="https://github.com/ellissentoso/RNN Machine Learning for Stock Price Prediction"><strong>Explore the docs »</strong></a>
-    <br/>
-    <br/>
-    <a href="https://github.com/ellissentoso/RNN Machine Learning for Stock Price Prediction">View Demo</a>
-    .
-    <a href="https://github.com/ellissentoso/RNN Machine Learning for Stock Price Prediction/issues">Report Bug</a>
-    .
-    <a href="https://github.com/ellissentoso/RNN Machine Learning for Stock Price Prediction/issues">Request Feature</a>
-  </p>
-</p>
-
-
-
 ## About The Project
 
 I created a program that uses an artificial recurrent neural network (RNN) called Long short-term memory (LSTM), which is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections.
