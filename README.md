@@ -36,9 +36,9 @@ Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
 
 ## Usage
 
-<img src="graph.png" alt="graph" width="1905" height="1092">
-<img src="actual_closing_price.png" alt="graph" width="580" height="182">
-<img src="predicted_price_with_LSTM.png" alt="graph" width="982" height="70">
+<img src="graph.png" alt="graph" width="1905" height="1072">
+<img src="actual closing price.png" alt="graph" width="580" height="182">
+<img src="predicted price with LSTM.png" alt="graph" width="982" height="70">
 
 ### Creating A Pull Request
 
