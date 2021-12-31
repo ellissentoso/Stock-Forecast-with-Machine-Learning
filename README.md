@@ -36,9 +36,9 @@ Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples, and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="graph.png" alt="graph" width="1905" height="1092">
+<img src="actual_closing_price.png" alt="graph" width="580" height="182">
+<img src="predicted_price_with_LSTM.png" alt="graph" width="982" height="70">
 
 ### Creating A Pull Request
 
