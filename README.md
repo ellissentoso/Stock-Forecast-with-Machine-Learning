@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ellissentoso/RNN Machine Learning for Stock Price Prediction">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
   <h3 align="center">Stock Prediction with Recurrent Neural Network LSTM</h3>
@@ -36,7 +36,7 @@ Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
 
 ## Usage
 
-<img src="graph.png" alt="graph" width="1905" height="1072">
+<img src="graph.png" alt="graph" width="1905" height="1000">
 <img src="actual closing price.png" alt="graph" width="580" height="182">
 <img src="predicted price with LSTM.png" alt="graph" width="982" height="70">
 
