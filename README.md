@@ -31,7 +31,8 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 
 ## Built With
 
-Skylearn, Pandas, Jupyter Notebook, Python Programming.
+Jupyter Notebook and Python Programming.
+Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
 
 ## Usage
 
