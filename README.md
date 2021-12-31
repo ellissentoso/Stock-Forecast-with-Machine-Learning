@@ -37,6 +37,7 @@ Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib.
 ## Usage
 
 <img src="graph.png" alt="graph" width="1905" height="1000">
+Actual Closing Price:
 <img src="actual closing price.png" alt="graph" width="580" height="182">
 <img src="predicted price with LSTM.png" alt="graph" width="982" height="70">
 
