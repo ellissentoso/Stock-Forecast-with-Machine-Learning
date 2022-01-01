@@ -23,7 +23,7 @@ Libraries: math, pandas_datareader, numpy, pandas, sklearn, matplotlib, keras, t
 ## Usage
 
 <img src="graph.png">
-Actual Closing Price:
+# Actual Closing Price:
 <img src="actual closing price.png" alt="graph" width="580" height="182">
 <img src="predicted price with LSTM.png" alt="graph" width="982" height="70">
 
